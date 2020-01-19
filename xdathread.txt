@@ -1,0 +1,152 @@
+[CENTER][IMG]https://img.xda-cdn.com/CnyeBpoyd27RvJXzWrqdMPvnttQ=/https%3A%2F%2Fi.ibb.co%2FBwjMFZQ%2Fderpfest-wallpaper-02-1-1.jpg[/IMG]
+
+[CODE][B]**** Disclaimer: I'm not responsible if you destroy your device. Use at your own risk!!! ****[/B][/CODE]
+[IMG]https://i.ibb.co/6Z7T4WB/about.png[/IMG]
+[SIZE="4"][FONT="Microsoft Sans Serif"]Some newbies working together to bring you a Custom ROM that incorporates the best features around and longs to support the community with its own unique features and contributions.[/SIZE][/FONT]
+
+[IMG]https://i.ibb.co/0GR6F4Q/team.png[/IMG]
+[FONT="Century Gothic"][COLOR="MediumTurquoise"][B][SIZE="5"]Alexander Brunswig[/SIZE][/B][/COLOR][/FONT]
+[FONT="Century Gothic"][COLOR="MediumTurquoise"][B][SIZE="5"]Ido Ben Hur[/SIZE][/B][/COLOR][/FONT]
+[FONT="Century Gothic"][COLOR="MediumTurquoise"][B][SIZE="5"]David Setiawan[/SIZE][/B][/COLOR][/FONT]
+
+[IMG]https://i.ibb.co/yhgRVCX/features.png[/IMG]
+[HIDE][SIZE="3"][B][FONT="Verdana"][COLOR="Cyan"]Theming[/COLOR][/FONT][/B]
+- Styles Configuration Menu
+- 4 System Icon Shapes
+- 43 System Fonts
+- 7 Primary Colors (Backgrund Colors)
+- 6 Lockscreen Clock Styles
+- Grid
+- Wallpaper Picker
+- RGB Accent Picker
+- Rounded Corners
+
+[B][FONT="Verdana"][COLOR="Cyan"]Statusbar[/COLOR][/FONT][/B]
+- System Icons
+- StatusBar Logo
+- Network Traffic Display
+- Battery Percent Show/Hide Config
+- Show Clock
+- Show Date
+- Ticker(Beta)
+- Carrier Label Settings
+
+[B][FONT="Verdana"][COLOR="Cyan"]Quick Settings[/COLOR][/FONT][/B]
+- Statusbar Pulldown (Left/Right)
+- QS Opacity & Color Configs
+- QS Backround Image Blur
+- Brightness Slider
+- Tiles Area
+- Footers Area
+- Header Area
+
+[B][FONT="Verdana"][COLOR="Cyan"]Buttons[/COLOR][/FONT][/B]
+- NavBar (Enable/Disable)
+- Screen Off Power Button Torch
+- Volume Settings
+- Hardware Keys
+- Prevent Accidential Touch
+- Enable On-Screen Navbar
+- Enable backlight
+-Hardware Keys Customisation
+
+[B][FONT="Verdana"][COLOR="Cyan"]Gestures[/COLOR][/FONT][/B]
+- AOSP Gestures
+- Back Gesture Height Config
+- Toggle To Hide Navbar Pill
+- Double Tap To Sleep Status Bar
+- Double Tap to Sleep Lockscreen
+- Three Finger Swipe To Screenshot
+
+[B][FONT="Verdana"][COLOR="Cyan"]Lockscreen[/COLOR][/FONT][/B]
+- Fingerprint Authentication Vibration Toggle
+- Ambient Brightness
+- Lock Screen Shortcuts
+- Status bar visibility toggle
+- Hide LockScreen Icon
+- Lockscreen Charging Info
+- Show Battery Bar
+- Clock/Date/Owner Info Options
+- Lock Screen Music Visualizer
+- Lock Screen Media Artwork Configs
+
+[B][FONT="Verdana"][COLOR="Cyan"]PowerMenu[/COLOR][/FONT][/B]
+- Disable PowerMenu When Locked
+- Power Menu Items
+
+[B][FONT="Verdana"][COLOR="Cyan"]Notifications[/COLOR][/FONT][/B]
+- Notification Light
+- Battery Charging Light
+- Charging Animations
+- Show Gentle Notifications
+- Force Expanded Notifications
+- Edge Lighting
+- Noisy Notifications
+- In Call Vibration Options
+
+[B][FONT="Verdana"][COLOR="Cyan"]Animations[/COLOR][/FONT][/B]
+- Animation Duration
+- Disable Transition Animations
+- ListView Animations
+
+[B][FONT="Verdana"][COLOR="Cyan"]Miscellaneous[/COLOR][/FONT][/B]
+- Wake On Charge
+- Brightness Control
+- Signature Spoofing Support
+- Time In State Monitor
+- Doze Settings[/SIZE][/HIDE]
+
+[IMG]https://i.ibb.co/CBwmmdS/report.png[/IMG]
+[HIDE]
+[SIZE="2"][LIST=1]
+[*]DO NOT Report bugs if you're running a custom kernel or you installed Xposed
+[*]Grab a logcat right after the problem has occurred. (Please include at least a few pages of the log, not just the last few lines, unless you know what you're doing.)
+[*]If it is a random reboot, grab dmesg . (Do not bother getting a logcat unless you can get it just before the reboot. A logcat after a reboot is useless)
+[*]If the problem disappears after running "setenforce 0" from a root shell, grab /data/misc/audit/audit.log
+[*]Remember to provide as much info as possible. The more info you provide, the more likely that the bug will be solved. Please also do not report known issues.
+[/LIST][/SIZE]
+[/HIDE]
+[IMG]https://i.ibb.co/7zvtgYT/source.png[/IMG]
+[HIDE]
+[SIZE="4"][FONT="Verdana"][B][URL="https://github.com/DerpLab"]DerpFest Github[/URL]
+[URL=""]Device Tree[/URL]
+[URL=""]Common Device Tree[/URL]
+[URL=""]Device Vendor[/URL]
+[URL=""]Device Kernel[/URL][/B][/FONT][/SIZE]
+[/HIDE]
+
+[IMG]https://i.ibb.co/QNXw0RJ/website.png[/IMG]
+[HIDE][SIZE="5"][FONT="Verdana"]
+[B][URL="https://derpfest.org"]derpfest.org[/URL][/B]
+[/FONT][/SIZE][/HIDE]
+
+[IMG]https://i.ibb.co/JFyZvSq/download.png[/IMG]
+[HIDE][SIZE="5"][FONT="Verdana"]
+[B][URL="https://sourceforge.net/projects/derpfest/files/tissot/DerpFest-10-Official-tissot-20200220.zip/download"]Source Forge[/URL][/B][/FONT]
+[/SIZE][/HIDE]
+[IMG]https://i.ibb.co/7vMRxG5/install.png[/IMG]
+[HIDE]
+[FONT="Verdana"][SIZE="3"]Get TWRP (Official is recommended)
+First hotboot it from fastboot and Flash the ROM, Magisk, or any other mods (again, don't report bugs if you can't reproduce them with just ROM and GApps)
+Reboot into the system, and enjoy the DerpFest![/FONT][/SIZE][/HIDE]
+[IMG]https://i.ibb.co/hscQTXb/bug.png[/IMG]
+[HIDE]
+[FONT="Verdana"][SIZE="3"]
+- Any other? Report me with proper logs[/SIZE][/FONT]
+[/HIDE]
+[IMG]https://i.ibb.co/9vkgXzm/credit.png[/IMG]
+[HIDE]
+[FONT="Verdana"][SIZE="3"]
+[COLOR="Blue"]AOSIP (They Are The Reason Why We Exist)[/COLOR]
+[COLOR="Lime"]Google for Android and AOSP[/COLOR]
+[COLOR="SandyBrown"]LineageOS[/COLOR]
+[COLOR="DarkSlateBlue"]AICP[/COLOR]
+[COLOR="DarkOrange"]ABC ROM[/COLOR]
+[COLOR="RoyalBlue"]PixelExperience[/COLOR]
+[COLOR="Green"]OmniROM[/COLOR]
+[COLOR="DarkOrchid"]AquariOS[/COLOR]
+[COLOR="Yellow"]BootleggersROM[/COLOR]
+
+---------
+Any others we may have forgotten to credit
+And last but not the least, all our testers, who have helped us to squash many bugs so that we can try to release builds that as are flawless as possible[/SIZE][/FONT][/CENTER][/HIDE] 

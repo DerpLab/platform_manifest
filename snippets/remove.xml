@@ -147,6 +147,7 @@
   <remove-project name="platform/packages/services/Telephony" />
   <remove-project name="platform/platform_testing" />
   <remove-project name="platform/prebuilts/clang/host/darwin-x86" />
+  <remove-project name="platform/prebuilts/clang/host/linux-x86" />
   <remove-project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" />
   <remove-project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9" />
   <remove-project name="platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" />
@@ -159,10 +160,13 @@
   <remove-project name="platform/prebuilts/maven_repo/google-play-service-client-libraries-3p" />
   <remove-project name="platform/prebuilts/python/darwin-x86/2.7.5" />
   <remove-project name="platform/prebuilts/r8" />
+  <remove-project name="platform/system/apex" />
   <remove-project name="platform/system/bt" />
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/extras" />
   <remove-project name="platform/system/hardware/interfaces" />
+  <remove-project name="platform/system/keymaster" />
+  <remove-project name="platform/system/netd" />
   <remove-project name="platform/system/sepolicy" />
   <remove-project name="platform/system/tools/hidl" />
   <remove-project name="platform/system/update_engine" />
