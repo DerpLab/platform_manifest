@@ -144,6 +144,7 @@
   <project path="system/keymaster" name="platform_system_keymaster" remote="derp" />
   <project path="system/netd" name="platform_system_netd" remote="derp" />
   <project path="system/qcom" name="ArrowOS/android_system_qcom" remote="github" revision="arrow-10.0" />
+  <project path="scripts" name="scripts" remote="derp" revision="master" />
 
   <!-- PixelExperience GApps and Mods -->
   <project path="packages/apps/PixelLiveWallpaper" name="PixelExperience/packages_apps_PixelLiveWallpaper" remote="gitlab" revision="ten" />
