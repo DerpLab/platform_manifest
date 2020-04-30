@@ -149,7 +149,7 @@
   <!-- PixelExperience GApps and Mods -->
   <project path="packages/apps/PixelLiveWallpaper" name="PixelExperience/packages_apps_PixelLiveWallpaper" remote="gitlab" revision="ten" />
   <project path="vendor/gapps" name="DerpFest/vendor_gapps" remote="gitlab" revision="ten" clone-depth="1" />
-  <project path="vendor/google/customization" name="PixelExperience/vendor_google_customization" remote="github" revision="ten" />
+  <project path="vendor/google-customization" name="PixelExperience/vendor_google-customization" remote="github" revision="ten" />
   <project path="vendor/pixelstyle" name="platform_vendor_pixelstyle" remote="derp" />
 
 </manifest>
