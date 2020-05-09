@@ -111,6 +111,7 @@
   <project path="prebuilts/tools-lineage" name="android_prebuilts_tools-lineage" remote="lineage" />
 
   <!-- System -->
+  <project path="system/bpf" name="android_system_bpf" remote="lineage" />
   <project path="system/tools/dtbtool" name="android_system_tools_dtbtool" remote="lineage" />
 
   <!-- Vendor -->
@@ -132,4 +133,3 @@
   <project path="vendor/qcom/opensource/thermal-engine" name="android_vendor_qcom_opensource_thermal-engine" remote="lineage" />
 
 </manifest>
-
