@@ -56,6 +56,7 @@
   <project path="external/one-true-awk" name="platform_external_one-true-awk" remote="aosip" />
   <project path="external/perfetto" name="platform_external_perfetto" remote="aosip" />
   <project path="external/proguard" name="platform_external_proguard" remote="aosip" />
+  <project path="external/pulse" name="platform_external_pulse" remote="derp" />
   <project path="external/selinux" name="platform_external_selinux" remote="aosip" />
   <project path="external/skia" name="platform_external_skia" remote="derp" />
   <project path="external/sqlite" name="platform_external_sqlite" remote="derp" />
