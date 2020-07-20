@@ -25,7 +25,7 @@
   <project path="bionic" name="platform_bionic" remote="derp" />
   <project path="bootable/recovery" name="platform_bootable_recovery" remote="derp" />
   <project path="development" name="platform_development" remote="derp" />
-  <project path="manifest" name="DerpLab/platform_manifest" remote="github" revision="ten" />
+  <project path="manifest" name="DerpLab/platform_manifest" remote="github" revision="qti-bt" />
 
   <!-- Build -->
   <project path="build/blueprint" name="platform_build_blueprint" remote="derp" />
@@ -67,7 +67,7 @@
 
   <!-- Frameworks -->
   <project path="frameworks/av" name="platform_frameworks_av" remote="derp" />
-  <project path="frameworks/base" name="platform_frameworks_base" remote="derp" />
+  <project path="frameworks/base" name="platform_frameworks_base" remote="derp" revision="qti-bt" />
   <project path="frameworks/compile/mclinker" name="platform_frameworks_compile_mclinker" remote="aosip" />
   <project path="frameworks/native" name="platform_frameworks_native" remote="derp" />
   <project path="frameworks/opt/net/ims" name="platform_frameworks_opt_net_ims" remote="aosip" />
@@ -87,7 +87,7 @@
   <project path="hardware/ril" name="platform_hardware_ril" remote="aosip" />
 
   <!-- Packages -->
-  <project path="packages/apps/Bluetooth" name="platform_packages_apps_Bluetooth" remote="derp" />
+  <project path="packages/apps/Bluetooth" name="platform_packages_apps_Bluetooth" remote="derp" revision="qti-bt" />
   <project path="packages/apps/CarrierConfig" name="platform_packages_apps_CarrierConfig" remote="derp" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform_packages_apps_CellBroadcastReceiver" remote="derp" />
   <project path="packages/apps/CertInstaller" name="platform_packages_apps_CertInstaller" remote="derp" />
@@ -101,7 +101,7 @@
   <project path="packages/apps/Nfc" name="platform_packages_apps_Nfc" remote="derp" />
   <project path="packages/apps/PermissionController" name="platform_packages_apps_PackageInstaller" remote="aosip" />
   <project path="packages/apps/PhoneCommon" name="platform_packages_apps_PhoneCommon" remote="derp" />
-  <project path="packages/apps/Settings" name="platform_packages_apps_Settings" remote="derp" />
+  <project path="packages/apps/Settings" name="platform_packages_apps_Settings" remote="derp" revision="qti-bt" />
   <project path="packages/apps/SettingsIntelligence" name="platform_packages_apps_SettingsIntelligence" remote="derp" />
   <project path="packages/apps/ThemePicker" name="platform_packages_apps_ThemePicker" remote="derp" />
   <project path="packages/apps/WallpaperPicker2" name="platform_packages_apps_WallpaperPicker2" remote="derp" />
@@ -116,7 +116,7 @@
   <project path="platform_testing" name="platform_platform_testing" remote="aosip" />
 
   <!-- System -->
-  <project path="system/bt" name="platform_system_bt" remote="derp" />
+  <project path="system/bt" name="platform_system_bt" remote="derp" revision="qti-bt" />
   <project path="system/core" name="platform_system_core" remote="derp" />
   <project path="system/extras" name="platform_system_extras" remote="derp" />
   <project path="system/hardware/interfaces" name="platform_system_hardware_interfaces" remote="aosip" />
