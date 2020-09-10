@@ -59,6 +59,7 @@
   <project path="external/pulse" name="platform_external_pulse" remote="derp" />
   <project path="external/selinux" name="platform_external_selinux" remote="aosip" />
   <project path="external/skia" name="platform_external_skia" remote="derp" />
+  <project path="external/sonivox" name="platform_external_sonivox" remote="aosip" />
   <project path="external/sqlite" name="platform_external_sqlite" remote="derp" />
   <project path="external/tinyalsa" name="platform_external_tinyalsa" remote="aosip" />
   <project path="external/tinycompress" name="platform_external_tinycompress" remote="derp" />
