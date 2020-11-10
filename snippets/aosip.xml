@@ -11,6 +11,10 @@
            fetch="https://github.com/AOSiP"
            revision="refs/heads/ten" />
 
+  <remote  name="syberia-bb"
+           fetch="https://bitbucket.org/syberia-project"
+           revision="refs/heads/10.0" />
+
   <remote  name="devices"
            fetch="https://github.com/DerpFest-Devices"
            revision="refs/heads/ten" />
@@ -51,6 +55,7 @@
 
   <!-- External -->
   <project path="external/e2fsprogs" name="platform_external_e2fsprogs" remote="aosip" />
+  <project path="external/motorola/faceunlock" name="external_motorola_faceunlock" remote="syberia-bb" />
   <project path="external/f2fs-tools" name="platform_external_f2fs-tools" remote="aosip" />
   <project path="external/gptfdisk" name="platform_external_gptfdisk" remote="aosip" />
   <project path="external/one-true-awk" name="platform_external_one-true-awk" remote="aosip" />
