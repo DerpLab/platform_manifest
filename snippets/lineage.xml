@@ -20,6 +20,7 @@
   <project path="external/freetype" name="android_external_freetype" remote="lineage" />
   <project path="external/json-c" name="android_external_json-c" remote="lineage" />
   <project path="external/htop" name="android_external_htop" remote="lineage" />
+  <project path="external/libaom" name="android_external_libaom" remote="lineage" />
   <project path="external/libexif" name="android_external_libexif" remote="lineage" />
   <project path="external/libncurses" name="android_external_libncurses" remote="lineage" />
   <project path="external/libnfc-nxp" name="android_external_libnfc-nxp" remote="lineage" />
@@ -104,6 +105,7 @@
 
   <!-- Packages -->
   <project path="packages/resources/devicesettings" name="android_packages_resources_devicesettings" remote="lineage" />
+  <project path="packages/apps/Car/Settings" name="android_packages_apps_Car_Settings" remote="lineage" />
   <project path="packages/apps/ExactCalculator" name="android_packages_apps_ExactCalculator" remote="lineage" />
   <project path="packages/apps/Etar" name="android_packages_apps_Etar" remote="lineage" />
   <project path="packages/apps/UnifiedEmail" name="android_packages_apps_UnifiedEmail" remote="lineage" />

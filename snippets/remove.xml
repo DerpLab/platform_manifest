@@ -63,6 +63,7 @@
   <remove-project name="platform/external/f2fs-tools" />
   <remove-project name="platform/external/gptfdisk" />
   <remove-project name="platform/external/libexif" />
+  <remove-project name="platform/external/libaom" />
   <remove-project name="platform/external/mksh" />
   <remove-project name="platform/external/one-true-awk" />
   <remove-project name="platform/external/openssh" />
@@ -117,6 +118,7 @@
   <remove-project name="platform/packages/apps/Browser2" />
   <remove-project name="platform/packages/apps/Calendar" />
   <remove-project name="platform/packages/apps/Car/externallibs" />
+  <remove-project name="platform/packages/apps/Car/Settings" />
   <remove-project name="platform/packages/apps/CarrierConfig" />
   <remove-project name="platform/packages/apps/CertInstaller" />
   <remove-project name="platform/packages/apps/CellBroadcastReceiver" />
