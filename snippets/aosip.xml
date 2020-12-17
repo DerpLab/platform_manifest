@@ -139,6 +139,7 @@
   <project path="packages/apps/OmniStyle" name="platform_packages_apps_OmniStyle" remote="derp" />
   <project path="packages/apps/OpenDelta" name="platform_packages_apps_OpenDelta" remote="derp" />
   <project path="packages/apps/PotatoPlugins" name="platform_packages_apps_PotatoPlugins" remote="derp" />
+  <project name="kdrag0n/proton-clang" path="prebuilts/clang/host/linux-x86/clang-proton" remote="github" revision="master" />
   <project path="prebuilts/clang/host/linux-x86" name="platform_prebuilts_clang_host_linux-x86" remote="derp" clone-depth="1" />
   <project path="prebuilts/clang/host/linux-x86/clang-6189010" name="crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-6189010" remote="github" revision="10.0" clone-depth="1" />
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-elf" name="AOSPA/android_prebuilts_gcc_linux-x86_aarch64_aarch64-elf" remote="github" revision="master" clone-depth="1" />
